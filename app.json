@@ -1,5 +1,5 @@
 {
-    "name": "PythonX HERE.",
+    "name": "Blazed HERE.",
     "logo": "https://te.legra.ph/file/57ef20b6463f2596e9b21.jpg",
     "keywords": [
         "telegram",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/ERR0rMK/ThePythonSpam",
+    "repository": "https://github.com/BLAZEDxOP/BLAZED_X_PYTHON",
     "env": {
       "API_ID": {
         "description": "Fill Api ID. Take this value from My.telegram.org",
