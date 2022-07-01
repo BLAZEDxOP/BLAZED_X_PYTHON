@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/ALLENite_X"><img src="https://te.legra.ph/file/57ef20b6463f2596e9b21.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/ALLENite_X"><img src="https://te.legra.ph/file/352fa1c6d7e6d37dfc3f3.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP PythonX BOT, That is the greatest pleasure we have !
