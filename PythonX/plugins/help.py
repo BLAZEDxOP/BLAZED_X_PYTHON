@@ -2,7 +2,7 @@ from PythonX import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USER
 from telethon import events, Button
 from PythonX import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/57ef20b6463f2596e9b21.jpg"
+HELP_PIC = "https://te.legra.ph/file/1683e92675f54e05411ff.jpg"
 
 PythonHelp = "★ 𝙏𝙝𝙚𝙋𝙮𝙩𝙝𝙤𝙣𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@ALLENite_X"
 
